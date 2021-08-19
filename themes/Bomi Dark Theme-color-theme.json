@@ -35,7 +35,7 @@
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#baba4a"
       }
     },
     {
@@ -117,7 +117,7 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -146,7 +146,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
@@ -161,7 +161,7 @@
         "support.other.parenthesis.regexp"
       ],
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
@@ -333,7 +333,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
@@ -357,7 +357,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
@@ -418,19 +418,19 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#F6AF92"
       }
     },
     {
@@ -554,7 +554,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#d4d4d4",
-    "stringLiteral": "#ce9178",
+    "stringLiteral": "#F6AF92",
     "customLiteral": "#D4D4D4",
     "numberLiteral": "#b5cea8"
   }
