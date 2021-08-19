@@ -1,2 +1,5 @@
 # bomi-dark-theme
-testing 
+
+default vscode dark+ theme with minor color changes
+
+testing...
