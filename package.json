@@ -2,31 +2,31 @@
   "name": "bomi",
   "displayName": "bomi",
   "description": "Bomi Dark Theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "./icon.png",
   "publisher": "bomidev",
   "engines": {
-      "vscode": "^1.59.0"
+    "vscode": "^1.59.0"
   },
   "keywords": [
-      "bomi",
-      "bomi dark",
-      "bomi theme"
+    "bomi",
+    "bomi dark",
+    "bomi theme"
   ],
   "categories": [
-      "Themes"
+    "Themes"
   ],
   "repository": {
-      "url": "https://github.com/cancng/bomi-dark-theme",
-      "type": "git"
+    "url": "https://github.com/cancng/bomi-dark-theme",
+    "type": "git"
   },
   "contributes": {
-      "themes": [
-          {
-              "label": "Bomi Dark Theme",
-              "uiTheme": "vs-dark",
-              "path": "./themes/Bomi Dark Theme-color-theme.json"
-          }
-      ]
+    "themes": [
+      {
+        "label": "Bomi Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bomi Dark Theme-color-theme.json"
+      }
+    ]
   }
 }
