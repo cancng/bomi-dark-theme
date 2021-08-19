@@ -3,7 +3,7 @@
   "displayName": "bomi",
   "description": "Bomi Dark Theme",
   "version": "0.0.3",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "publisher": "bomidev",
   "engines": {
     "vscode": "^1.59.0"
