@@ -35,7 +35,7 @@
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
-        "foreground": "#baba4a"
+        "foreground": "#3193C6"
       }
     },
     {
@@ -76,7 +76,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#ffa657"
+        "foreground": "#e4b358"
       }
     },
     {
@@ -124,14 +124,14 @@
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#4FC1FF"
+        "foreground": "#05AD97"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -146,7 +146,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
@@ -161,7 +161,7 @@
         "support.other.parenthesis.regexp"
       ],
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
@@ -274,7 +274,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -333,7 +333,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
@@ -357,7 +357,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
@@ -388,7 +388,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -418,19 +418,19 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#F6AF92"
+        "foreground": "#05AD97"
       }
     },
     {
@@ -467,7 +467,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -523,7 +523,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#D19A66"
       }
     },
     {
@@ -554,7 +554,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#d4d4d4",
-    "stringLiteral": "#F6AF92",
+    "stringLiteral": "#05AD97",
     "customLiteral": "#D4D4D4",
     "numberLiteral": "#b5cea8"
   }
