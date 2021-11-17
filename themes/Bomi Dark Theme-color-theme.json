@@ -124,7 +124,7 @@
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -146,7 +146,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -161,7 +161,7 @@
         "support.other.parenthesis.regexp"
       ],
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -333,7 +333,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -357,7 +357,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -418,19 +418,19 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#05AD97"
+        "foreground": "#ED9572"
       }
     },
     {
@@ -554,7 +554,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#d4d4d4",
-    "stringLiteral": "#05AD97",
+    "stringLiteral": "#ED9572",
     "customLiteral": "#D4D4D4",
     "numberLiteral": "#b5cea8"
   }
