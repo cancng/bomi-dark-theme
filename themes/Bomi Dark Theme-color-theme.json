@@ -124,7 +124,7 @@
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#ED9572"
+        "foreground": "#56b6c2"
       }
     },
     {
