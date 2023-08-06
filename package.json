@@ -2,8 +2,9 @@
   "name": "bomi-dark-theme",
   "displayName": "Bomi Dark Theme",
   "description": "The standard Visual Studio Code theme is now powered up!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
+  "preview": true,
   "publisher": "bomi01",
   "engines": {
     "vscode": "^1.59.0"
