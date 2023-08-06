@@ -1,17 +1,19 @@
 {
-  "name": "bomi",
-  "displayName": "bomi",
-  "description": "Bomi Dark Theme",
-  "version": "0.4.1",
+  "name": "bomi-dark-theme",
+  "displayName": "Bomi Dark Theme",
+  "description": "The standard Visual Studio Code theme is now powered up!",
+  "version": "0.0.1",
   "icon": "icon.png",
-  "publisher": "bomidev",
+  "publisher": "bomi01",
   "engines": {
     "vscode": "^1.59.0"
   },
   "keywords": [
     "bomi",
     "bomi dark",
-    "bomi theme"
+    "bomi theme",
+    "enhanced vscode theme",
+    "vscode dark"
   ],
   "categories": [
     "Themes"

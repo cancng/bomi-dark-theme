@@ -76,7 +76,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#e4b358"
+        "foreground": "#FF802B"
       }
     },
     {
@@ -131,7 +131,7 @@
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F2555A"
       }
     },
     {
@@ -146,7 +146,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
@@ -161,7 +161,7 @@
         "support.other.parenthesis.regexp"
       ],
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
@@ -274,7 +274,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F2555A"
       }
     },
     {
@@ -333,7 +333,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
@@ -357,7 +357,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
@@ -388,7 +388,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F2555A"
       }
     },
     {
@@ -418,19 +418,19 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#F9C859"
+        "foreground": "#F0C000"
       }
     },
     {
@@ -467,7 +467,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F2555A"
       }
     },
     {
@@ -523,7 +523,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F2555A"
       }
     },
     {
@@ -554,7 +554,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#d4d4d4",
-    "stringLiteral": "#F9C859",
+    "stringLiteral": "#F0C000",
     "customLiteral": "#D4D4D4",
     "numberLiteral": "#b5cea8"
   }
