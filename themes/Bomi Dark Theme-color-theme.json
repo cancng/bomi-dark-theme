@@ -227,6 +227,13 @@
       }
     },
     {
+      "name": "Variable other",
+      "scope": ["variable.other"],
+      "settings": {
+        "foreground": "#ECEDEE"
+      }
+    },
+    {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
@@ -512,7 +519,7 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#ff7b72"
+        "foreground": "#E34BA9"
       }
     },
     {
@@ -585,7 +592,7 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#ff7b72"
+        "foreground": "#BF7AF0"
       }
     },
     {
