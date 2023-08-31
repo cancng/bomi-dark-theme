@@ -132,6 +132,13 @@
   },
   "tokenColors": [
     {
+      "name": "Imports",
+      "scope": ["keyword.other.import"],
+      "settings": {
+        "foreground": "#E34BA9"
+      }
+    },
+    {
       "name": "Function declarations",
       "scope": [
         "entity.name.function",
@@ -141,7 +148,7 @@
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
-        "foreground": "#3193C6"
+        "foreground": "#52A9FF"
       }
     },
     {
@@ -182,7 +189,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#4CC38A"
+        "foreground": "#FF802B"
       }
     },
     {
@@ -525,11 +532,11 @@
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#ff7b72"
+        "foreground": "#F2555A"
       }
     },
     {
-      "scope": ["string", "meta.embedded.assembly"],
+      "scope": ["string", "meta.embedded.assembly", "storage.type.annotation"],
       "settings": {
         "foreground": "#F0C000"
       }
@@ -586,7 +593,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#E34BA9"
       }
     },
     {
@@ -660,7 +667,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#FFA657"
+        "foreground": "#E34BA9"
       }
     }
   ],
