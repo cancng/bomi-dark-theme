@@ -173,7 +173,6 @@
         "storage.type.generic.cs",
         "storage.type.modifier.cs",
         "storage.type.variable.cs",
-        "storage.type.annotation.java",
         "storage.type.generic.java",
         "storage.type.java",
         "storage.type.object.array.java",
@@ -181,7 +180,6 @@
         "storage.type.primitive.java",
         "storage.type.token.java",
         "storage.type.groovy",
-        "storage.type.annotation.groovy",
         "storage.type.parameters.groovy",
         "storage.type.generic.groovy",
         "storage.type.object.array.groovy",
@@ -221,7 +219,7 @@
         "foreground": "#E34BA9"
       }
     },
-    {
+    /* {
       "name": "Variable and parameter name",
       "scope": [
         "variable",
@@ -233,14 +231,14 @@
       "settings": {
         "foreground": "#C9D1D9"
       }
-    },
-    {
+    }, */
+    /* {
       "name": "Variable other",
-      "scope": ["variable.other"],
+      "scope": "variable.other",
       "settings": {
         "foreground": "#ECEDEE"
       }
-    },
+    }, */
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
@@ -537,7 +535,7 @@
       }
     },
     {
-      "scope": ["string", "meta.embedded.assembly", "storage.type.annotation"],
+      "scope": ["string", "meta.embedded.assembly"],
       "settings": {
         "foreground": "#F0C000"
       }
@@ -651,6 +649,12 @@
       "scope": "constant.sha.git-rebase",
       "settings": {
         "foreground": "#b5cea8"
+      }
+    },
+    {
+      "scope": "storage.type.annotation",
+      "settings": {
+        "foreground": "#F0C000"
       }
     },
     {
