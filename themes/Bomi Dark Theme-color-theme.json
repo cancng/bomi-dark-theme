@@ -160,7 +160,6 @@
         "entity.name.namespace",
         "entity.other.attribute",
         "entity.name.scope-resolution",
-        "entity.name.class",
         "storage.type.numeric.go",
         "storage.type.byte.go",
         "storage.type.boolean.go",
@@ -535,6 +534,12 @@
       "scope": "entity.name.type",
       "settings": {
         "foreground": "#4CC38A"
+      }
+    },
+    {
+      "scope": "entity.name.class",
+      "settings": {
+        "foreground": "#FF802B"
       }
     },
     {
