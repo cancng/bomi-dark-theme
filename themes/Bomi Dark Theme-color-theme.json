@@ -157,7 +157,6 @@
         "meta.return-type",
         "support.class",
         "support.type",
-        "entity.name.type",
         "entity.name.namespace",
         "entity.other.attribute",
         "entity.name.scope-resolution",
@@ -219,26 +218,6 @@
         "foreground": "#E34BA9"
       }
     },
-    /* {
-      "name": "Variable and parameter name",
-      "scope": [
-        "variable",
-        "meta.definition.variable.name",
-        "support.variable",
-        "entity.name.variable",
-        "constant.other.placeholder" // placeholders in strings
-      ],
-      "settings": {
-        "foreground": "#C9D1D9"
-      }
-    }, */
-    /* {
-      "name": "Variable other",
-      "scope": "variable.other",
-      "settings": {
-        "foreground": "#ECEDEE"
-      }
-    }, */
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
@@ -544,6 +523,18 @@
       "scope": "string.tag",
       "settings": {
         "foreground": "#F0C000"
+      }
+    },
+    {
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#F2555A"
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#4CC38A"
       }
     },
     {
