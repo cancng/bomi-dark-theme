@@ -672,7 +672,7 @@
       }
     }
   ],
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
   "semanticTokenColors": {
     "newOperator": "#d4d4d4",
     "stringLiteral": "#F0C000",
