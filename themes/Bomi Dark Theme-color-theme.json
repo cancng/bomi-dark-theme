@@ -670,7 +670,14 @@
       "settings": {
         "foreground": "#E34BA9"
       }
-    }
+    },
+    {
+      "name": "string interpolation brackets",
+      "scope": "string.interpolated.expression",
+      "settings": {
+        "foreground": "#D4D4D4"
+      }
+    },
   ],
   "semanticHighlighting": false,
   "semanticTokenColors": {
